@@ -1,10 +1,15 @@
 # police_shootout
 
 Objectives for this Part
+
 identifying opportunities for data analysis.
+
 performing EDA.
+
 working with data 
+
 visualizing data with Matplotlib & Seaborn.
+
 reading data, performing queries, and filtering data using Pandas.
 
 # about the dataset
